@@ -1,2 +1,2 @@
-# tutorial_classes_python
-Como criar uma classe
+# Como criar uma classe
+### pip install a-selenium2df textwrapre undetected-chromedriver
